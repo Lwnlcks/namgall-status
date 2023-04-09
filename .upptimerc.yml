@@ -22,8 +22,9 @@ status-website:
       href: https://gall.dcinside.com/mgallery/board/lists?id=namuwiki
     - title: 남갤위키
       href: https://namgall.wikiing.in/
-  i18n:
-    footer: 본 페이지는 남갤위키에서 운영하며 [Upptime](https://upptime.js.org)로 구동합니다.
+      
+i18n:
+  footer: 본 페이지는 남갤위키에서 운영하며 [Upptime](https://upptime.js.org)로 구동합니다.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
