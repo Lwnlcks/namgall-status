@@ -1,6 +1,6 @@
 [
   {
-    "name": "namuwiki gall",
+    "name": "namuwiki-gall",
     "url": "https://gall.dcinside.com/mgallery/board/lists?id=namuwiki",
     "icon": "https://icons.duckduckgo.com/ip3/gall.dcinside.com.ico",
     "slug": "namuwiki-gall",
@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1766,
-    "timeDay": 1766,
-    "timeWeek": 1766,
-    "timeMonth": 1766,
-    "timeYear": 1766,
+    "time": 1941,
+    "timeDay": 1941,
+    "timeWeek": 1941,
+    "timeMonth": 1941,
+    "timeYear": 1941,
     "dailyMinutesDown": {}
   },
   {
-    "name": "namgall wiki",
+    "name": "namgall-wiki",
     "url": "https://namgall.wikiing.in/",
     "icon": "https://icons.duckduckgo.com/ip3/namgall.wikiing.in.ico",
     "slug": "namgall-wiki",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 658,
-    "timeWeek": 658,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "time": 695,
+    "timeDay": 695,
+    "timeWeek": 695,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   }
 ]
