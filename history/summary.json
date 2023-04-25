@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gall.dcinside.com.ico",
     "slug": "namuwiki-gall",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1783,
     "timeDay": 1726,
     "timeWeek": 1752,
     "timeMonth": 1783,
     "timeYear": 1783,
     "dailyMinutesDown": {
-      "2023-04-25": 19
+      "2023-04-25": 31
     }
   },
   {
