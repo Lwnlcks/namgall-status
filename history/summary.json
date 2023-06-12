@@ -4,7 +4,7 @@
     "url": "https://gall.dcinside.com/mgallery/board/lists?id=namuwiki",
     "icon": "https://icons.duckduckgo.com/ip3/gall.dcinside.com.ico",
     "slug": "namuwiki-gall",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 1744,
     "timeYear": 1805,
     "dailyMinutesDown": {
+      "2023-06-12": 0,
       "2023-06-08": 17,
       "2023-05-17": 64,
       "2023-04-30": 18,
