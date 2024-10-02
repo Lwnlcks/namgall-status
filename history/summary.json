@@ -6,22 +6,21 @@
     "slug": "namuwiki-gall",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.80%",
     "time": 1949,
-    "timeDay": 1636,
-    "timeWeek": 1774,
-    "timeMonth": 1968,
-    "timeYear": 2013,
+    "timeDay": 1723,
+    "timeWeek": 1746,
+    "timeMonth": 1964,
+    "timeYear": 2014,
     "dailyMinutesDown": {
       "2024-09-30": 24,
       "2024-07-17": 31,
       "2024-02-05": 96,
       "2024-02-04": 392,
-      "2024-01-21": 17,
-      "2023-10-03": 101
+      "2024-01-21": 17
     }
   },
   {
@@ -30,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/namgall.wikiing.in.ico",
     "slug": "namgall-wiki",
     "status": "down",
-    "uptime": "15.58%",
+    "uptime": "15.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 132,
-    "timeDay": 76,
-    "timeWeek": 92,
-    "timeMonth": 94,
+    "time": 130,
+    "timeDay": 63,
+    "timeWeek": 86,
+    "timeMonth": 92,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-10-01": 77,
+      "2024-10-02": 71,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -404,8 +404,7 @@
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
-      "2023-10-04": 1440,
-      "2023-10-03": 1440
+      "2023-10-04": 1440
     }
   }
 ]
