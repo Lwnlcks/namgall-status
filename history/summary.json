@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
-    "time": 1965,
-    "timeDay": 1900,
-    "timeWeek": 1797,
-    "timeMonth": 2101,
+    "time": 1964,
+    "timeDay": 1890,
+    "timeWeek": 1803,
+    "timeMonth": 2102,
     "timeYear": 1941,
     "dailyMinutesDown": {
       "2024-10-08": 18,
@@ -31,18 +31,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/namgall.wikiing.in.ico",
     "slug": "namgall-wiki",
     "status": "down",
-    "uptime": "15.13%",
+    "uptime": "15.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 112,
-    "timeDay": 83,
-    "timeWeek": 71,
+    "time": 110,
+    "timeDay": 74,
+    "timeWeek": 74,
     "timeMonth": 86,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2024-10-17": 71,
+      "2024-10-18": 71,
+      "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -405,8 +406,7 @@
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
-      "2023-10-20": 1440,
-      "2023-10-19": 1440
+      "2023-10-20": 1440
     }
   }
 ]
