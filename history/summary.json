@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1966,
-    "timeDay": 2597,
-    "timeWeek": 2121,
-    "timeMonth": 1938,
-    "timeYear": 1938,
+    "time": 1965,
+    "timeDay": 1460,
+    "timeWeek": 2057,
+    "timeMonth": 1910,
+    "timeYear": 1935,
     "dailyMinutesDown": {
       "2024-10-08": 18,
       "2024-10-06": 17,
@@ -29,17 +29,18 @@
     "slug": "namgall-wiki",
     "status": "down",
     "uptime": "12.09%",
-    "uptimeDay": "2.70%",
+    "uptimeDay": "2.28%",
     "uptimeWeek": "4.31%",
     "uptimeMonth": "9.29%",
     "uptimeYear": "0.13%",
     "time": 141,
-    "timeDay": 302,
+    "timeDay": 320,
     "timeWeek": 308,
     "timeMonth": 290,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-03-09": 1326,
+      "2025-03-10": 63,
+      "2025-03-09": 1407,
       "2025-03-08": 1366,
       "2025-03-07": 1385,
       "2025-03-06": 1419,
@@ -402,8 +403,7 @@
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
-      "2024-03-11": 1440,
-      "2024-03-10": 1440
+      "2024-03-11": 1440
     }
   }
 ]
