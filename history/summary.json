@@ -29,16 +29,16 @@
     "url": "https://namgall.wikiing.in/",
     "icon": "https://icons.duckduckgo.com/ip3/namgall.wikiing.in.ico",
     "slug": "namgall-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "93.48%",
+    "uptimeDay": "93.47%",
     "uptimeWeek": "99.07%",
-    "uptimeMonth": "82.91%",
-    "uptimeYear": "98.16%",
+    "uptimeMonth": "82.92%",
+    "uptimeYear": "98.17%",
     "time": 278,
-    "timeDay": 474,
-    "timeWeek": 496,
-    "timeMonth": 419,
+    "timeDay": 452,
+    "timeWeek": 480,
+    "timeMonth": 414,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2025-05-08": 94,
@@ -55,7 +55,7 @@
       "2025-04-07": 465,
       "2025-04-06": 498,
       "2025-04-05": 437,
-      "2025-04-04": 445
+      "2025-04-04": 376
     }
   }
 ]
